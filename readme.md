@@ -19,5 +19,4 @@ The map provides total number of covid cases in U.S. counties. The dots are prop
 
 #### Data Source
 * New York Times
-* American Community Survey 2018
 * U.S. Census Bureau
